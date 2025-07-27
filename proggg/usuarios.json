@@ -1,0 +1,38 @@
+{
+    "productos": [
+        {
+            "id": "15",
+            "nombre": "pbc",
+            "precio": 0.9,
+            "cantidad": 405,
+            "proveedor": "mat",
+            "stock_min": 40,
+            "stock_max": 200
+        }
+    ],
+    "clientes": [
+        {
+            "cedula": "16732",
+            "nombre": "luis",
+            "direccion": "calle 120 av 140",
+            "telefono": "3989842",
+            "correo": "lius@hamc.com"
+        },
+        {
+            "cedula": "287372",
+            "nombre": "bri",
+            "direccion": "calle 120",
+            "telefono": "038923",
+            "correo": "bri@gmail.com"
+        }
+    ],
+    "brit@gmail.com": {
+        "contrase\u00f1a": "bri1"
+    },
+    "hola": {
+        "contrase\u00f1a": "123"
+    },
+    "bri@gmail.com": {
+        "contrase\u00f1a": "Br1"
+    }
+}
